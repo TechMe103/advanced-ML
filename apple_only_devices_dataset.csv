@@ -1,0 +1,110 @@
+Model Number,Company,Display Size,Display Type,Display Protection Type,Total Storage,Storage Type,Total RAM,RAM Type,Processor,Battery Capacity,Front Camera MP,Front Dual Camera MP,Back Camera MP,Wide Camera MP,Micro Camera MP,Body Type,Body Back,Wireless Charging,NFC Support,Price (USD)
+Apple-1366,Apple,6.1,OLED,Gorilla Glass,128,UFS 3.1,8,LPDDR5,A16 Bionic,5500,20,8.0,108,8,5,Glass,Polycarbonate back,True,False,1452
+Apple-5250,Apple,5.4,OLED,Gorilla Glass,512,eMMC 5.1,12,LPDDR5,A16 Bionic,6000,16,,16,20,5,Glass,Leather back,True,False,886
+Apple-9300,Apple,6.7,IPS LCD,Ion-strengthened glass,256,eMMC 5.1,8,LPDDR5,A16 Bionic,5000,8,8.0,16,20,5,Glass,Plastic,False,False,889
+Apple-2342,Apple,5.4,IPS LCD,Scratch-resistant glass,128,NVMe,12,LPDDR5,A17 Pro,6000,12,16.0,108,12,8,Polycarbonate,Polycarbonate back,True,True,1328
+Apple-5441,Apple,6.5,IPS LCD,Scratch-resistant glass,256,eMMC 5.1,6,LPDDR5,A13 Bionic,6000,16,,48,8,12,Metallic,Polycarbonate back,True,False,1329
+Apple-6462,Apple,6.5,IPS LCD,Gorilla Glass,512,UFS 3.1,12,LPDDR5,A17 Pro,5000,20,,108,20,8,Polycarbonate,Plastic,True,True,1610
+Apple-3862,Apple,7.0,Super Retina XDR,Ceramic Shield,512,eMMC 5.1,12,LPDDR5,A15 Bionic,5000,12,16.0,48,16,5,Polycarbonate,Plastic,False,False,1209
+Apple-9267,Apple,6.1,OLED,Scratch-resistant glass,128,UFS 3.1,8,LPDDR4X,A13 Bionic,4000,16,16.0,12,20,2,Polycarbonate,Plastic,True,False,1425
+Apple-5527,Apple,6.1,OLED,Ion-strengthened glass,256,NVMe,8,LPDDR5,A16 Bionic,5000,16,16.0,16,8,8,Polycarbonate,Plastic,True,False,1284
+Apple-6113,Apple,7.0,OLED,Scratch-resistant glass,64,UFS 3.1,8,LPDDR5,A13 Bionic,5500,12,8.0,108,12,2,Plastic,Leather back,False,True,799
+Apple-8712,Apple,6.7,Super Retina XDR,Ceramic Shield,512,eMMC 5.1,6,LPDDR5,A15 Bionic,4500,12,12.0,48,20,12,Glass,Glass back,False,False,1903
+Apple-9355,Apple,5.4,IPS LCD,Gorilla Glass,1024,UFS 3.1,12,LPDDR4X,A13 Bionic,4000,8,12.0,48,12,8,Glass,Polycarbonate back,True,False,763
+Apple-1430,Apple,6.1,Liquid Retina,Scratch-resistant glass,256,eMMC 5.1,6,LPDDR5,A14 Bionic,5500,12,16.0,108,12,12,Plastic,Leather back,False,False,1905
+Apple-1943,Apple,7.0,Liquid Retina,Ceramic Shield,1024,eMMC 5.1,4,LPDDR5,A17 Pro,6000,16,16.0,108,8,12,Polycarbonate,Plastic,False,True,1049
+Apple-6962,Apple,6.5,Liquid Retina,Gorilla Glass,512,eMMC 5.1,4,LPDDR5,A14 Bionic,5500,12,8.0,48,12,5,Glass,Glass back,True,False,1235
+Apple-6751,Apple,6.5,OLED,Ceramic Shield,64,UFS 3.1,12,LPDDR5,A16 Bionic,5500,12,16.0,48,12,12,Plastic,Plastic,True,False,1320
+Apple-7189,Apple,6.5,OLED,Scratch-resistant glass,1024,UFS 3.1,8,LPDDR5,A15 Bionic,5500,8,8.0,48,12,5,Plastic,Glass back,True,True,1689
+Apple-3666,Apple,6.7,Super Retina XDR,Ceramic Shield,128,NVMe,4,LPDDR5,A14 Bionic,6000,20,12.0,108,20,12,Polycarbonate,Polycarbonate back,False,False,1630
+Apple-5716,Apple,6.7,Super Retina XDR,Ion-strengthened glass,256,NVMe,6,LPDDR5,A13 Bionic,5000,8,,108,12,8,Plastic,Leather back,False,True,1479
+Apple-6688,Apple,6.7,Liquid Retina,Ceramic Shield,64,eMMC 5.1,4,LPDDR5,A15 Bionic,5000,20,16.0,12,12,2,Glass,Polycarbonate back,True,True,1120
+Apple-3259,Apple,5.4,Super Retina XDR,Gorilla Glass,128,UFS 3.1,8,LPDDR5,A14 Bionic,4500,12,12.0,12,8,12,Metallic,Leather back,True,False,1099
+Apple-3020,Apple,6.7,IPS LCD,Ion-strengthened glass,128,NVMe,4,LPDDR4X,A13 Bionic,4500,20,,16,16,12,Plastic,Plastic,True,True,1332
+Apple-9191,Apple,6.5,IPS LCD,Ion-strengthened glass,64,UFS 3.1,8,LPDDR5,A17 Pro,4500,20,8.0,48,16,5,Polycarbonate,Plastic,False,False,1340
+Apple-7849,Apple,6.7,Super Retina XDR,Scratch-resistant glass,64,UFS 3.1,12,LPDDR4X,A14 Bionic,4500,20,,64,16,8,Metallic,Polycarbonate back,False,False,1940
+Apple-3583,Apple,5.4,Liquid Retina,Ion-strengthened glass,1024,UFS 3.1,6,LPDDR4X,A15 Bionic,4000,8,12.0,48,16,8,Polycarbonate,Leather back,False,False,1486
+Apple-6854,Apple,7.0,OLED,Ceramic Shield,1024,NVMe,8,LPDDR5,A13 Bionic,4500,16,,64,8,8,Metallic,Glass back,True,True,1067
+Apple-7636,Apple,6.5,OLED,Ion-strengthened glass,256,UFS 3.1,4,LPDDR5,A14 Bionic,5500,8,,64,12,8,Glass,Glass back,True,True,1734
+Apple-6134,Apple,6.1,IPS LCD,Ion-strengthened glass,512,eMMC 5.1,8,LPDDR4X,A17 Pro,5500,20,12.0,12,16,12,Glass,Plastic,False,False,1960
+Apple-1661,Apple,6.7,IPS LCD,Ceramic Shield,256,UFS 3.1,8,LPDDR4X,A16 Bionic,5500,20,,16,20,5,Plastic,Plastic,True,False,822
+Apple-6903,Apple,6.7,Super Retina XDR,Gorilla Glass,512,NVMe,6,LPDDR4X,A14 Bionic,6000,8,12.0,48,8,8,Plastic,Plastic,True,True,1644
+Apple-5048,Apple,6.5,Super Retina XDR,Gorilla Glass,256,eMMC 5.1,8,LPDDR5,A13 Bionic,4000,12,8.0,48,20,2,Metallic,Polycarbonate back,False,True,1101
+Apple-6397,Apple,6.5,IPS LCD,Scratch-resistant glass,512,NVMe,4,LPDDR5,A13 Bionic,5000,8,16.0,108,20,12,Metallic,Leather back,True,True,1821
+Apple-1833,Apple,5.4,Liquid Retina,Ceramic Shield,1024,UFS 3.1,12,LPDDR5,A13 Bionic,5000,12,8.0,64,12,8,Plastic,Polycarbonate back,False,True,1418
+Apple-1180,Apple,6.5,Liquid Retina,Ceramic Shield,256,UFS 3.1,4,LPDDR4X,A17 Pro,6000,8,,108,8,5,Plastic,Polycarbonate back,True,False,1967
+Apple-4382,Apple,6.5,IPS LCD,Gorilla Glass,1024,eMMC 5.1,4,LPDDR5,A15 Bionic,5500,8,16.0,48,16,12,Plastic,Plastic,True,False,1021
+Apple-9547,Apple,6.1,Super Retina XDR,Scratch-resistant glass,256,NVMe,8,LPDDR5,A16 Bionic,4000,20,16.0,64,20,12,Glass,Glass back,False,True,1601
+Apple-3338,Apple,7.0,Liquid Retina,Gorilla Glass,128,eMMC 5.1,4,LPDDR4X,A17 Pro,5500,16,,108,8,12,Metallic,Leather back,False,True,831
+Apple-5178,Apple,6.5,Liquid Retina,Scratch-resistant glass,1024,eMMC 5.1,4,LPDDR4X,A13 Bionic,5500,12,12.0,12,20,5,Glass,Polycarbonate back,False,True,1817
+Apple-3196,Apple,6.5,OLED,Scratch-resistant glass,1024,UFS 3.1,8,LPDDR5,A16 Bionic,5500,12,12.0,12,12,12,Glass,Glass back,False,True,1692
+Apple-3383,Apple,6.5,IPS LCD,Scratch-resistant glass,128,eMMC 5.1,12,LPDDR4X,A13 Bionic,4000,20,8.0,64,20,2,Polycarbonate,Glass back,False,False,1061
+Apple-2185,Apple,5.4,Super Retina XDR,Ceramic Shield,1024,eMMC 5.1,12,LPDDR4X,A17 Pro,4000,16,12.0,108,16,2,Glass,Polycarbonate back,False,True,1281
+Apple-5640,Apple,7.0,Liquid Retina,Scratch-resistant glass,256,UFS 3.1,8,LPDDR5,A13 Bionic,5500,20,8.0,64,20,2,Metallic,Plastic,False,False,1886
+Apple-2059,Apple,6.1,Liquid Retina,Scratch-resistant glass,128,eMMC 5.1,12,LPDDR4X,A15 Bionic,5000,20,8.0,108,12,5,Polycarbonate,Plastic,False,True,859
+Apple-8641,Apple,5.4,Super Retina XDR,Ceramic Shield,64,UFS 3.1,6,LPDDR5,A14 Bionic,4000,16,16.0,48,8,5,Polycarbonate,Polycarbonate back,True,False,1245
+Apple-1653,Apple,6.5,OLED,Ceramic Shield,512,UFS 3.1,4,LPDDR5,A14 Bionic,5000,20,12.0,64,16,12,Glass,Plastic,False,True,1336
+Apple-6499,Apple,5.4,Super Retina XDR,Gorilla Glass,128,UFS 3.1,4,LPDDR5,A15 Bionic,4000,20,8.0,64,8,8,Plastic,Glass back,True,False,1337
+Apple-6319,Apple,7.0,OLED,Ceramic Shield,512,NVMe,12,LPDDR4X,A14 Bionic,4000,8,12.0,12,8,12,Metallic,Leather back,False,False,767
+Apple-2497,Apple,6.5,Liquid Retina,Ion-strengthened glass,64,NVMe,4,LPDDR4X,A13 Bionic,6000,16,8.0,108,20,2,Metallic,Glass back,False,False,1228
+Apple-5576,Apple,7.0,IPS LCD,Scratch-resistant glass,1024,UFS 3.1,8,LPDDR5,A17 Pro,4500,12,8.0,48,20,8,Plastic,Leather back,False,False,1128
+Apple-3357,Apple,6.1,Liquid Retina,Gorilla Glass,256,eMMC 5.1,6,LPDDR5,A13 Bionic,5000,12,8.0,64,12,5,Polycarbonate,Polycarbonate back,True,False,1203
+Apple-8267,Apple,6.5,IPS LCD,Gorilla Glass,512,NVMe,6,LPDDR4X,A15 Bionic,4000,20,,12,20,5,Polycarbonate,Glass back,False,False,963
+Apple-2909,Apple,6.7,Liquid Retina,Gorilla Glass,256,eMMC 5.1,6,LPDDR4X,A14 Bionic,5000,12,8.0,64,16,2,Plastic,Plastic,True,True,1490
+Apple-3624,Apple,5.4,OLED,Gorilla Glass,128,eMMC 5.1,6,LPDDR5,A15 Bionic,4000,8,12.0,64,16,5,Metallic,Leather back,True,True,739
+Apple-8270,Apple,6.7,Super Retina XDR,Gorilla Glass,64,eMMC 5.1,8,LPDDR5,A13 Bionic,6000,12,,12,12,8,Polycarbonate,Leather back,False,True,1071
+Apple-1950,Apple,6.7,Liquid Retina,Ion-strengthened glass,1024,NVMe,8,LPDDR5,A17 Pro,5500,8,,16,16,5,Polycarbonate,Polycarbonate back,True,False,1764
+Apple-4711,Apple,6.1,Liquid Retina,Ceramic Shield,1024,eMMC 5.1,6,LPDDR4X,A16 Bionic,5000,8,8.0,48,12,12,Plastic,Polycarbonate back,True,False,1635
+Apple-2525,Apple,7.0,Super Retina XDR,Ceramic Shield,64,eMMC 5.1,6,LPDDR4X,A13 Bionic,4500,12,12.0,108,8,8,Metallic,Glass back,True,True,1229
+Apple-4069,Apple,7.0,OLED,Ion-strengthened glass,128,UFS 3.1,12,LPDDR4X,A16 Bionic,4000,16,16.0,108,8,2,Metallic,Polycarbonate back,True,False,1330
+Apple-2479,Apple,5.4,IPS LCD,Ion-strengthened glass,64,UFS 3.1,8,LPDDR5,A17 Pro,4000,20,16.0,16,20,12,Plastic,Plastic,False,True,1116
+Apple-7406,Apple,6.5,Super Retina XDR,Ion-strengthened glass,256,UFS 3.1,6,LPDDR4X,A16 Bionic,6000,12,8.0,12,12,12,Polycarbonate,Plastic,True,True,742
+Apple-1656,Apple,6.1,Liquid Retina,Ceramic Shield,512,UFS 3.1,8,LPDDR4X,A16 Bionic,5000,16,8.0,48,16,8,Plastic,Glass back,False,True,1380
+Apple-3321,Apple,6.1,IPS LCD,Gorilla Glass,128,eMMC 5.1,8,LPDDR4X,A17 Pro,4500,16,8.0,64,16,12,Plastic,Plastic,True,True,1685
+Apple-7513,Apple,6.1,IPS LCD,Gorilla Glass,256,eMMC 5.1,12,LPDDR4X,A14 Bionic,5000,12,,108,16,5,Metallic,Polycarbonate back,False,False,1855
+Apple-7483,Apple,5.4,Super Retina XDR,Scratch-resistant glass,128,UFS 3.1,4,LPDDR5,A13 Bionic,4000,16,16.0,16,8,8,Glass,Leather back,False,False,1835
+Apple-7832,Apple,7.0,Liquid Retina,Gorilla Glass,128,UFS 3.1,6,LPDDR5,A14 Bionic,5000,8,8.0,64,12,5,Metallic,Plastic,True,False,805
+Apple-4000,Apple,6.1,IPS LCD,Ion-strengthened glass,64,NVMe,6,LPDDR5,A16 Bionic,5000,12,16.0,48,8,8,Plastic,Polycarbonate back,True,True,1302
+Apple-1619,Apple,6.5,OLED,Ceramic Shield,256,eMMC 5.1,6,LPDDR5,A14 Bionic,5500,8,8.0,48,12,2,Metallic,Polycarbonate back,False,False,860
+Apple-4235,Apple,6.5,OLED,Scratch-resistant glass,64,NVMe,12,LPDDR5,A15 Bionic,6000,12,,64,12,2,Plastic,Plastic,False,False,1088
+Apple-2450,Apple,6.5,IPS LCD,Gorilla Glass,512,eMMC 5.1,6,LPDDR4X,A15 Bionic,4000,16,16.0,12,12,8,Glass,Polycarbonate back,True,True,1595
+Apple-1576,Apple,6.7,OLED,Gorilla Glass,256,NVMe,12,LPDDR4X,A16 Bionic,4500,16,16.0,16,12,5,Metallic,Polycarbonate back,True,False,1495
+Apple-4357,Apple,7.0,OLED,Ceramic Shield,64,NVMe,6,LPDDR4X,A17 Pro,5500,16,12.0,16,16,2,Plastic,Polycarbonate back,True,True,1299
+Apple-8040,Apple,6.1,Liquid Retina,Gorilla Glass,64,eMMC 5.1,4,LPDDR4X,A16 Bionic,5500,12,12.0,16,20,12,Glass,Glass back,False,True,976
+Apple-6224,Apple,6.5,OLED,Scratch-resistant glass,512,NVMe,8,LPDDR5,A15 Bionic,6000,12,8.0,64,16,12,Glass,Leather back,False,False,927
+Apple-3886,Apple,6.7,Super Retina XDR,Gorilla Glass,64,eMMC 5.1,12,LPDDR5,A16 Bionic,4500,20,12.0,12,16,12,Polycarbonate,Leather back,True,True,1267
+Apple-1969,Apple,6.1,IPS LCD,Gorilla Glass,128,UFS 3.1,12,LPDDR5,A17 Pro,4000,16,12.0,64,16,5,Polycarbonate,Plastic,False,True,1622
+Apple-1481,Apple,7.0,Liquid Retina,Ion-strengthened glass,128,NVMe,12,LPDDR5,A16 Bionic,5000,20,,48,8,8,Plastic,Plastic,True,False,1112
+Apple-5595,Apple,5.4,Super Retina XDR,Ceramic Shield,1024,eMMC 5.1,4,LPDDR4X,A14 Bionic,4000,16,8.0,16,8,8,Plastic,Glass back,False,True,1060
+Apple-7658,Apple,6.7,IPS LCD,Ion-strengthened glass,128,UFS 3.1,6,LPDDR4X,A17 Pro,5500,12,12.0,16,20,8,Metallic,Polycarbonate back,False,True,700
+Apple-1804,Apple,5.4,Liquid Retina,Scratch-resistant glass,128,UFS 3.1,12,LPDDR5,A14 Bionic,5000,20,16.0,48,8,5,Metallic,Leather back,False,False,1381
+Apple-7359,Apple,6.5,OLED,Ceramic Shield,64,eMMC 5.1,4,LPDDR5,A14 Bionic,4000,16,12.0,48,20,2,Polycarbonate,Plastic,False,True,1757
+Apple-6612,Apple,6.1,OLED,Ion-strengthened glass,1024,UFS 3.1,8,LPDDR4X,A13 Bionic,5000,16,8.0,48,16,12,Glass,Plastic,True,True,750
+Apple-9941,Apple,5.4,Liquid Retina,Scratch-resistant glass,512,UFS 3.1,12,LPDDR4X,A13 Bionic,5000,12,12.0,64,20,5,Glass,Polycarbonate back,True,True,1721
+Apple-5693,Apple,6.1,Liquid Retina,Ceramic Shield,128,eMMC 5.1,4,LPDDR4X,A16 Bionic,4000,20,,64,12,5,Glass,Glass back,False,True,1344
+Apple-4246,Apple,6.1,IPS LCD,Scratch-resistant glass,512,eMMC 5.1,4,LPDDR4X,A16 Bionic,5500,12,8.0,16,12,8,Plastic,Glass back,True,False,1346
+Apple-4850,Apple,7.0,Super Retina XDR,Gorilla Glass,128,UFS 3.1,8,LPDDR5,A15 Bionic,4000,12,8.0,12,8,5,Plastic,Leather back,True,True,963
+Apple-5107,Apple,6.5,Super Retina XDR,Scratch-resistant glass,512,NVMe,12,LPDDR4X,A15 Bionic,5500,20,16.0,64,8,5,Glass,Glass back,False,False,1273
+Apple-9948,Apple,6.1,OLED,Scratch-resistant glass,128,UFS 3.1,8,LPDDR5,A15 Bionic,5500,20,8.0,64,16,8,Polycarbonate,Leather back,False,False,1264
+Apple-3616,Apple,6.5,Liquid Retina,Ceramic Shield,256,UFS 3.1,12,LPDDR4X,A16 Bionic,5000,20,8.0,108,20,2,Metallic,Polycarbonate back,True,False,1083
+Apple-8762,Apple,5.4,OLED,Gorilla Glass,128,UFS 3.1,8,LPDDR5,A16 Bionic,4000,8,8.0,108,8,12,Plastic,Glass back,True,True,1664
+Apple-2330,Apple,6.1,Super Retina XDR,Gorilla Glass,128,eMMC 5.1,8,LPDDR5,A17 Pro,6000,8,16.0,48,12,8,Metallic,Plastic,False,True,820
+Apple-1399,Apple,5.4,IPS LCD,Scratch-resistant glass,512,UFS 3.1,12,LPDDR4X,A13 Bionic,4000,8,16.0,108,8,8,Glass,Glass back,False,False,1640
+Apple-1708,Apple,7.0,OLED,Ceramic Shield,1024,UFS 3.1,4,LPDDR5,A15 Bionic,4500,12,12.0,12,20,8,Glass,Plastic,False,True,972
+Apple-6358,Apple,6.5,IPS LCD,Ion-strengthened glass,128,eMMC 5.1,4,LPDDR5,A16 Bionic,4500,20,8.0,16,16,12,Polycarbonate,Leather back,False,True,1300
+Apple-1676,Apple,6.1,IPS LCD,Gorilla Glass,256,eMMC 5.1,8,LPDDR4X,A14 Bionic,4000,8,12.0,64,8,8,Plastic,Glass back,True,True,1664
+Apple-2307,Apple,6.5,Liquid Retina,Scratch-resistant glass,1024,UFS 3.1,4,LPDDR4X,A16 Bionic,5500,12,8.0,48,8,5,Metallic,Leather back,True,False,983
+Apple-5946,Apple,6.7,OLED,Gorilla Glass,64,eMMC 5.1,4,LPDDR4X,A13 Bionic,4000,16,,108,20,12,Polycarbonate,Plastic,False,True,907
+Apple-7481,Apple,6.1,IPS LCD,Gorilla Glass,1024,eMMC 5.1,12,LPDDR4X,A16 Bionic,5500,16,16.0,48,16,8,Plastic,Leather back,False,False,979
+Apple-4718,Apple,5.4,OLED,Gorilla Glass,128,UFS 3.1,12,LPDDR4X,A15 Bionic,5500,8,8.0,16,20,5,Metallic,Plastic,False,True,710
+Apple-7624,Apple,7.0,IPS LCD,Gorilla Glass,256,UFS 3.1,4,LPDDR4X,A17 Pro,6000,20,12.0,64,12,2,Plastic,Plastic,False,True,1980
+Apple-8141,Apple,6.7,Liquid Retina,Scratch-resistant glass,512,UFS 3.1,4,LPDDR5,A16 Bionic,5500,16,8.0,12,8,2,Glass,Polycarbonate back,True,False,933
+Apple-3020,Apple,7.0,OLED,Ion-strengthened glass,256,eMMC 5.1,12,LPDDR5,A13 Bionic,4000,20,8.0,108,20,2,Glass,Polycarbonate back,True,False,819
+Apple-9747,Apple,5.4,OLED,Gorilla Glass,512,eMMC 5.1,6,LPDDR4X,A14 Bionic,5500,16,12.0,48,12,12,Glass,Leather back,True,False,902
+Apple-4390,Apple,7.0,Liquid Retina,Ceramic Shield,1024,UFS 3.1,4,LPDDR4X,A16 Bionic,5000,16,,64,16,2,Plastic,Leather back,False,False,1589
+Apple-7534,Apple,5.4,Super Retina XDR,Ion-strengthened glass,64,eMMC 5.1,6,LPDDR4X,A17 Pro,4000,16,12.0,48,16,5,Polycarbonate,Glass back,False,True,1247
+Apple-3973,Apple,6.1,Super Retina XDR,Gorilla Glass,1024,eMMC 5.1,6,LPDDR4X,A15 Bionic,6000,12,,64,20,12,Glass,Polycarbonate back,False,False,971
+Apple-9663,Apple,7.0,OLED,Ceramic Shield,512,eMMC 5.1,4,LPDDR4X,A17 Pro,5000,12,,64,16,8,Metallic,Leather back,True,False,784
+Apple-2303,Apple,7.0,IPS LCD,Gorilla Glass,128,UFS 3.1,6,LPDDR5,A15 Bionic,6000,16,12.0,64,20,12,Glass,Polycarbonate back,False,False,1887
+Apple-7058,Apple,6.5,Super Retina XDR,Ion-strengthened glass,128,eMMC 5.1,12,LPDDR4X,A15 Bionic,5000,20,8.0,12,8,8,Plastic,Leather back,False,True,1130
+Apple-8532,Apple,5.4,Super Retina XDR,Ion-strengthened glass,64,NVMe,4,LPDDR5,A16 Bionic,5000,8,8.0,108,8,2,Polycarbonate,Polycarbonate back,False,False,1072
